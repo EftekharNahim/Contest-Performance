@@ -21,5 +21,6 @@
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Unpredictable_3207 | 15 | Team | Divisional |
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_Bug_Entity | 37 | Team | National |
 | [NCPC Onsite 2023 Hosted by JU](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Bug_Entity | 36 | Team | National |
+| [2022 ICPC ASIA DHAKA REGIONAL CONTEST](https://algo.codemarshal.org/contests/dhaka-22/standings) | CoU_Unpredictable_3207 | 28(Divisional Champion | Team | National |
 
 
