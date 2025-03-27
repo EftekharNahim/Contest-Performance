@@ -19,4 +19,6 @@
 | [BUET Inter University Programming Contest 2022](https://toph.co/c/buet-inter-university-2022/standings) | CoU_Unpredictable_3207 |  49 | Team | National |
 | [BUET Inter University Programming Contest 2023](https://toph.co/c/buet-inter-university-2023/standings) | CoU_Unpredictable_3207 | 17 | Team | National |
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Unpredictable_3207 | 15 | Team | Divisional |
+| [NCPC Onsite 2023 Hosted by JU](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Bug_Entity | 36 | Team | National |
+
 
