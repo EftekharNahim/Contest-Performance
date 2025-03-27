@@ -18,3 +18,5 @@
 | [The 2023 ICPC Asia West Continent Final Contest](https://icpc.global/ICPCID/RNWOM13Q1C15) | CoU_Unpredictable_3207 | 35 | Team | International |
 | [BUET Inter University Programming Contest 2022](https://toph.co/c/buet-inter-university-2022/standings) | CoU_Unpredictable_3207 |  49 | Team | National |
 | [BUET Inter University Programming Contest 2023](https://toph.co/c/buet-inter-university-2023/standings) | CoU_Unpredictable_3207 | 17 | Team | National |
+| [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Unpredictable_3207 | 15 | Team | Divisional |
+
