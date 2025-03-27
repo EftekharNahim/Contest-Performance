@@ -6,7 +6,7 @@
 | -- | -------- | ----------- | ---- | ---- |
 | [Cefalo SUST Inter University Programming Contest 2023](https://toph.co/c/sust-inter-university-2023/standings) | CoU_Unpredictable_3207 | 37 | Team | National |
 | [SEC Inter University Junior Programming Contest, 2022](https://toph.co/c/sec-inter-university-junior-2022/standings)| CoU_Debug_Entity | 34 | Team | National |
-| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_Unpredictable_3207 | 18 | Team | National |
+| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_Unpredictable_3207 | 10 | Team | National |
 | [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)](https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_Unpredictable_3207 | 3 | Team | Regional |
 | [Asia Dhaka Regional Site Online Preliminary Contest](https://icpc.global/ICPCID/RNWOM13Q1C15) | CoU_Debug_Entity | 142 | Team | National |
 | [The 2021 ICPC Asia Dhaka Regional Site Online Preliminary Contest](https://icpc.global/ICPCID/RNWOM13Q1C15) | CoU_Unpredictable_3207 | _ | Team | National | 
